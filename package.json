@@ -1,0 +1,59 @@
+{
+  "_from": "git+https://github.com/RodrigoCS/react-native-parallax-scroll-view.git",
+  "_id": "react-native-parallax-scroll-view@0.20.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-parallax-scroll-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/RodrigoCS/react-native-parallax-scroll-view",
+    "rawSpec": "https://github.com/RodrigoCS/react-native-parallax-scroll-view",
+    "saveSpec": "git+https://github.com/RodrigoCS/react-native-parallax-scroll-view.git",
+    "fetchSpec": "https://github.com/RodrigoCS/react-native-parallax-scroll-view.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/RodrigoCS/react-native-parallax-scroll-view.git#cefdccad280f3ddcd5c5936366e3dea031819560",
+  "_spec": "https://github.com/RodrigoCS/react-native-parallax-scroll-view",
+  "_where": "/Users/MBP-Alex/servicios-k",
+  "author": {
+    "name": "Jack Hsu"
+  },
+  "bugs": {
+    "url": "https://github.com/jaysoo/react-native-parallax-scroll-view/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A ScrollView-like component with parallax and sticky header support",
+  "files": [
+    "src",
+    "demo.ios.gif",
+    "demo.android.20160117.gif",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/jaysoo/react-native-parallax-scroll-view#readme",
+  "keywords": [
+    "react-native",
+    "react",
+    "parallax",
+    "scrollable",
+    "scrollview",
+    "sticky",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "license": "ISC",
+  "main": "src/index.js",
+  "name": "react-native-parallax-scroll-view",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaysoo/react-native-parallax-scroll-view.git"
+  },
+  "version": "0.20.1"
+}
