@@ -1,6 +1,6 @@
 [![](https://img.shields.io/npm/dm/react-native-parallax-scroll-view.svg?style=flat-square)](https://www.npmjs.com/package/react-native-parallax-scroll-view)
 
-# Rodrigocs - Animated Driver
+# AlexxRuff - Animated Driver
 
 This component now uses Native Driver by default.
 Remember to pass a Animated component to `renderScrollComponent`, by default it has `Animated.ScrollView`
